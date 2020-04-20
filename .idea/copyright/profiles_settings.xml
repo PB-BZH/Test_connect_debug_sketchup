@@ -1,0 +1,15 @@
+<component name="CopyrightManager">
+  <settings default="PB-BZH Concept">
+    <LanguageOptions name="Ruby">
+      <option name="fileTypeOverride" value="3" />
+      <option name="block" value="false" />
+      <option name="separateBefore" value="true" />
+      <option name="separateAfter" value="true" />
+      <option name="prefixLines" value="false" />
+      <option name="lenBefore" value="110" />
+      <option name="lenAfter" value="110" />
+      <option name="box" value="true" />
+      <option name="filler" value="-" />
+    </LanguageOptions>
+  </settings>
+</component>
