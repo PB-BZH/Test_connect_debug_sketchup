@@ -12,9 +12,9 @@
 # -------------------------------------------------------------------------------------------------
 module PB_BZH_Concept
 	module LOAD_EXTERNAL_PLUGIN
-		plugins_working_directory = 'G:/Espace_de_Travail/Sketchup'
-		project_name              = 'Test_connect_debug_sketchup'
-		src                       = 'Src'
+		plugins_working_directory = 'G:/Espace_de_Travail/Sketchup'.freeze
+		project_name              = 'Test_connect_debug_sketchup'.freeze
+		src                       = 'Src'.freeze
 		SOURCE                    = File.join(plugins_working_directory, project_name, src).freeze
 
 		SKETCHUP_CONSOLE.show
