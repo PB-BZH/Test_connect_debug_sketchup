@@ -1,0 +1,15 @@
+#-------------------------------------------------------------------------------------------------------------
+#  Module : Test_connect_debug_sketchup                                                                      -
+#  File name : gemfile - Last modified : 20/04/2020 16:30                                                    -
+#                                                                                                            -
+#  PB-BZH Concept (c) 2020 - The software written by Patrick Bourges                                         -
+#  All rights reserved.                                                                                      -
+#  Published 20/4/2020                                                                                       -
+#-------------------------------------------------------------------------------------------------------------
+
+source 'https://rubygems.org'
+
+group :development do
+	gem 'minitest' # Not needed for the stubs, but useful for tests.
+	gem 'sketchup-api-stubs'
+end
